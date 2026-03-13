@@ -6,7 +6,7 @@ export default function HomeScreen() {
       {/* SECTION FOTO */}
       <Image
         source={{
-          uri: 'https://raw.githubusercontent.com/Fatur07-02/pertemuan2/main/images/fatur.jpeg',
+          uri: 'https://raw.githubusercontent.com/Fatur07-02/pertemuan2/main/assets/images/fatur.jpeg',
         }}
         //  bisa juga menggunakan local image
         //  image: source={require('../assets/images/gambar22.png')}
